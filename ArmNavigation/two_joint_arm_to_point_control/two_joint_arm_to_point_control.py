@@ -15,7 +15,7 @@ import numpy as np
 
 
 # Similation parameters
-Kp = 15
+Kp = 10 # 100 is perfect
 dt = 0.01
 
 # Link lengths
